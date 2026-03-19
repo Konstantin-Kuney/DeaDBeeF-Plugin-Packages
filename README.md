@@ -35,7 +35,7 @@ DeaDBeeF Plugin Packages
 ## Установка/Удаление Dynamic Range Meter Plugin с помощью пакетного менеджера:
 ---------------------------------------------------------------------------------
 
-### 1.Клонируйте GitHub репозиторий wavcrc32:
+### 1.Клонируйте GitHub репозиторий DeaDBeeF Plugin Packages:
 ```
 $ cd /tmp/
 $ git clone https://github.com/Konstantin-Kuney/DeaDBeeF-Plugin-Packages.git
