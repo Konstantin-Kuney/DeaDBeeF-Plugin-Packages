@@ -38,12 +38,12 @@ DeaDBeeF Plugin Packages
 ### 1.Клонируйте GitHub репозиторий wavcrc32:
 ```
 $ cd /tmp/
-$ git clone https://github.com/Konstantin-Kuney/xxxxxxx.git
+$ git clone https://github.com/Konstantin-Kuney/DeaDBeeF-Plugin-Packages.git
 ```
 
 ### 2.Перейдите в папку с плагином:
 ```
-$ cd xxxxxxxxxxx
+$ cd DeaDBeeF-Plugin-Packages/deadbeef-dr-meter-linux-x86_64/99646ef/
 ```
 
 ### 3.Установите пакет deadbeef-dr-meter с помощью пакетного менеджера:
